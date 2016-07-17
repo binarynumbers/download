@@ -1,6 +1,6 @@
 <html>
 	<table width="1150" border="0" cellpadding="3">
-	<form action="binary.php" method="post">
+	<form action="binarynumbers.php" method="post">
 		<tr>
 		<td>
  		<h1>Binary Numbers</h1>
